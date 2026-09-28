@@ -1,0 +1,10 @@
+# DNA Sequence Analyzer
+# ---------------------------------------------------------------------------
+# Dependencies:
+# This project uses ONLY the Python Standard Library.
+# No external or third-party packages (e.g., Biopython, NumPy, Pandas)
+# are required or used.
+#
+# Tested and compatible with:
+# Python 3.8+ (Standard Library: sys, array)
+# ---------------------------------------------------------------------------
